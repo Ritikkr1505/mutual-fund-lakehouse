@@ -1,0 +1,7 @@
+| scheme_code | scheme_name                      | fund_house       | category  | nav    | nav_date   |
+| ----------- | -------------------------------- | ---------------- | --------- | ------ | ---------- |
+| 1001        | SBI Bluechip Fund                | SBI Mutual Fund  | Large Cap | 87.45  | 2026-07-10 |
+| 1002        | HDFC Flexi Cap Fund              | HDFC Mutual Fund | Flexi Cap | 156.82 | 2026-07-10 |
+| 1003        | ICICI Prudential Value Discovery | ICICI Prudential | Value     | 312.67 | 2026-07-10 |
+| 1004        | Nippon India Small Cap           | Nippon India     | Small Cap | 189.32 | 2026-07-10 |
+| 1005        | Axis Midcap Fund                 | Axis Mutual Fund | Mid Cap   | 102.54 | 2026-07-10 |
